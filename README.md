@@ -26,7 +26,7 @@ This repository contains the implementation of the SimpleNet model for anomaly d
    - The entire `simplenet-module` folder (containing all helper modules).
    - The full `mvtec-ad` dataset folder.
 
-3. **Open the notebook `simple_final.ipynb`** in Kaggle.
+3. **Open the notebook `simplenet_final.ipynb`** in Kaggle.
 
 4. **Set the input paths in the notebook if needed:**  
    The notebook assumes the paths to `simplenet-module` and `mvtec-ad` folders in the Kaggle input directory.
