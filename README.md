@@ -12,7 +12,7 @@ This repository contains the implementation of the SimpleNet model for anomaly d
 - `mvtec-ad/`  
   The MVTec Anomaly Detection dataset folder. This dataset is used for training and testing the SimpleNet model.
 
-- `SimpleNet_Training_Notebook.ipynb`  
+- `simple_final.ipynb`  
   Kaggle notebook for training the SimpleNet model and evaluating results.
 
 ---
