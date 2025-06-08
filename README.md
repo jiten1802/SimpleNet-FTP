@@ -13,7 +13,7 @@ This repository contains the implementation of the SimpleNet model for anomaly d
   The MVTec Anomaly Detection dataset folder. This dataset is used for training and testing the SimpleNet model.
 
 - `SimpleNet_Training_Notebook.ipynb`  
-  Kaggle notebook for training the SimpleNet model, evaluating results, and generating visualizations.
+  Kaggle notebook for training the SimpleNet model and evaluating results.
 
 ---
 
@@ -35,8 +35,6 @@ This repository contains the implementation of the SimpleNet model for anomaly d
    - Load the dataset  
    - Initialize and train the SimpleNet model  
    - Evaluate model performance  
-   - Visualize anomaly detection results
-
 ---
 
 ## Notes
